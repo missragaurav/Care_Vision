@@ -13,7 +13,7 @@ Figma [UI design](https://www.figma.com/file/GBjEUJ94SCwAIuSpIa5ELG/file?type=de
 
   Doctor Home                 |    Patient Home        | Search Doctor
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="" />|<img src="Screenshots/Patient_home.jpg" height="500em" />|<img src="Screenshots/Search_doctor.jpg" height="500em" />
+<img src="Screenshots/Patient_home.jpg" height="500em" />|<img src="Screenshots/Search_doctor.jpg" height="500em" />
 
   Find Appointement                 |    Select Appointement        | Accept Appointement
 :-------------------------:|:-------------------------:|:----------------------
