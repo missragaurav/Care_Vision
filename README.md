@@ -6,7 +6,7 @@ A mobile application that facilitates making appointments and monitoring patient
 **Ilyass TARHRI** [![Twitter Follow](https://img.shields.io/twitter/follow/ilyass_trh.svg?style=social)](https://twitter.com/ilyass_trh)
 
 
-Figma [UI design](https://www.figma.com/file/L0xzd81wOR54JDfknXAZaR/HealthCare?node-id=0%3A1)
+Figma [UI design](https://www.figma.com/file/GBjEUJ94SCwAIuSpIa5ELG/file?type=design&node-id=1%3A1186&mode=design&t=3TNFBPk5cKf3YOGU-1)
 <img src="Screenshots/App_ui.png"/>
 
 
@@ -14,7 +14,7 @@ Figma [UI design](https://www.figma.com/file/L0xzd81wOR54JDfknXAZaR/HealthCare?n
 
   Doctor Home                 |    Patient Home        | Search Doctor
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="Screenshots/Doctor_home.jpg" height="500em" />|<img src="Screenshots/Patient_home.jpg" height="500em" />|<img src="Screenshots/Search_doctor.jpg" height="500em" />
+<img src=""C:\Users\GAURAV MISHRA\OneDrive\Pictures\Screenshots\Screenshot 2024-05-11 091107.png"" height="500em" />|<img src="Screenshots/Patient_home.jpg" height="500em" />|<img src="Screenshots/Search_doctor.jpg" height="500em" />
 
   Find Appointement                 |    Select Appointement        | Accept Appointement
 :-------------------------:|:-------------------------:|:----------------------
