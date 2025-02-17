@@ -21,5 +21,5 @@ Figma [UI design](https://www.figma.com/file/GBjEUJ94SCwAIuSpIa5ELG/file?type=de
 
   Add Treatment                |    Medical Folder        | Contact
 :-------------------------:|:-------------------------:|:----------------------
-<img src="Screenshots/Medical_folder_1.jpg" height="500em" />|<img src="Screenshots/Medical_folder_2.jpg" height="500em" />
+<img src="Screenshots/Medical_folder_1.jpg" height="500em" />
 
